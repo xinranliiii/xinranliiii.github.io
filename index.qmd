@@ -1,0 +1,18 @@
+---
+title: "Xinran Li's Personal Website"
+author: "Xinran Li"
+date: today
+format: html
+---
+
+# Welcome to My Website
+
+Hello! I'm Xinran Li, and this is my personal website where I share my projects, ideas, and interests.
+
+## About Me
+I’m passionate about technology, design, and creating meaningful experiences for people.
+
+## Contact Me
+Feel free to reach out at:
+- Email: xinran24@bu.com
+- GitHub: [xinranliiii](https://github.com/xinranliiii)
